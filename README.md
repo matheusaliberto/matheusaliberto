@@ -5,8 +5,8 @@ Atualmente sou estudante de Engenharia da computação na Unicamp.
 Para ver meu portfólio <a href="https://matheusaliberto.github.io/Portfolio/" target="_blank">Clique aqui!</a>.
 
 <div align-items="strech">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=matheusaliberto&show_icons=true&theme=cobalt&hide=issues,contribs" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaliberto&layout=compact&theme=cobalt" />
+  <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api?username=matheusaliberto&show_icons=true&theme=cobalt&hide=issues,contribs" />
+  <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaliberto&layout=compact&theme=cobalt" />
 </div>
 <h2>Linguagens de conhecimento</h2>
 
